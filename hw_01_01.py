@@ -1,4 +1,5 @@
 def word_count(input_text, some_word):
+    test = 0
     counter = 0
     words = input_text.split()
 
